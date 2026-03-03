@@ -25,7 +25,7 @@ Open `index.html` to be presented with two options:
 levels of netpractice. After each level completion, the student should export
 their configuration via a dedicated button in order to prepare the defense.
 * **Evaluation** is a time-bound exercice where the student will have to
-complete 3 randomly selected level between 6 and 10 be graded by an evaluator.
+complete 3 randomly selected level between 6 and 10 to be graded by an evaluator.
 
 ## Resources
 
@@ -47,6 +47,6 @@ Wikipedia is a good place to start to get the basics
 * [Router (computing)](https://en.wikipedia.org/wiki/Router_(computing))
 
 YouTube might offer more illustrated and interactive use cases to deepen the
-student's understand of each and every concept.
+student's understanding of each and every concept.
 
 * [Networking Animated Videos](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzg0LdsR7F3olyLGoBcIvvg) by PowerCert Animated Videos
